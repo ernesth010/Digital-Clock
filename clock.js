@@ -38,7 +38,7 @@
             let greeting;
             
             if (hour < 12) {
-                greeting = "🌅 Good Morning!";
+                greeting = "🌅 Good Morningm Ernest!";
             } else if (hour < 18) {
                 greeting = "☀️ Good Afternoon!";
             } else {
