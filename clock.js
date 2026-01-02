@@ -40,9 +40,9 @@
             if (hour < 12) {
                 greeting = "🌅 Good Morningm Ernest!";
             } else if (hour < 18) {
-                greeting = "☀️ Good Afternoon!";
+                greeting = "☀️ Good Afternoon Ernest!";
             } else {
-                greeting = "🌙 Good Evening!";
+                greeting = "🌙 Good Evening Ernest!";
             }
             
             const h1 = document.querySelector('h1');
